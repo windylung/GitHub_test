@@ -2,4 +2,8 @@ test
 second
 third - mybranch1
 forth - mybranch1
+<<<<<<< HEAD
 기능1추가
+=======
+some hot fix
+>>>>>>> master
